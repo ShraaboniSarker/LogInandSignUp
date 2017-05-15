@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "46752375664",
+    "firebase_url": "https://loginandsignup-3193b.firebaseio.com",
+    "project_id": "loginandsignup-3193b",
+    "storage_bucket": "loginandsignup-3193b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46752375664:android:e0cd0321c353b703",
+        "android_client_info": {
+          "package_name": "com.example.shraaboni.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46752375664-dpiq130v88fq3oc7ofog5ioeipkp9ud9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shraaboni.loginandsignup",
+            "certificate_hash": "8150b698cbbe32d7b0e00ff36f1aa1ec75935006"
+          }
+        },
+        {
+          "client_id": "46752375664-7g8qp16e19udcujsqhsc27cgemlhsgep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInUsrLodsK5UvYn-M1OLAiJ-Z9U8FyoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46752375664-7g8qp16e19udcujsqhsc27cgemlhsgep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
